@@ -10,7 +10,7 @@ Authentication System Using JWT access tokena and refresh token
 Clone the project
 
 ```bash
-  git clone https://github.com/mayur1106/auth-backend.git
+  git clone https://github.com/mayur1106/eg-auth-frontend-.git
 ```
 
 Go to the project directory
