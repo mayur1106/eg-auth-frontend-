@@ -16,5 +16,10 @@ export const navigation = [
     target: "_blank",
     key: "1",
   },
-  { name: "Github", href: "#", key: "2" },
+  {
+    name: "Github",
+    href: "https://github.com/mayur1106/eg-auth-frontend-",
+    target: "_blank",
+    key: "2",
+  },
 ];

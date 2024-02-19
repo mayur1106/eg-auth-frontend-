@@ -43,7 +43,7 @@ export default function Login() {
       dispatch(setCredentials({ userData, email: post.email }));
       setUser("");
       setPwd("");
-      navigate("/");
+      navigate("/welcome");
     } catch (error: any) {
       let errorMessage = "";
       if (error.response) {
