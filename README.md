@@ -1,9 +1,7 @@
 
-# Authentication System in Front end in react using redux 
+# User Sign Up and Sign using react & redux
 
-Authentication System Using JWT access tokena and refresh token
-
-
+Frontend UI for the User Sign Up And Sign In 
 
 ## Run Locally
 
