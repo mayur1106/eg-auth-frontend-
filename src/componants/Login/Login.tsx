@@ -1,7 +1,7 @@
-import { Link, Navigate, useLocation, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useState, useRef, useEffect } from "react";
-import { useDispatch, useSelector } from "react-redux";
-import { setCredentials, selectCurrentUser } from "../../state/auth/authSlice";
+import { useDispatch } from "react-redux";
+import { setCredentials } from "../../state/auth/authSlice";
 import { useLoginMutation } from "../../state/auth/authApiSlice";
 import { Icon } from "react-icons-kit";
 import { eyeOff } from "react-icons-kit/feather/eyeOff";
