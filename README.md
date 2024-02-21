@@ -3,6 +3,8 @@
 
 Frontend UI for the User Sign Up And Sign In 
 
+[Click Here To See Live Demo](http://eg-auth.tessai.tech/) 
+
 ## Run Locally
 
 Clone the project
