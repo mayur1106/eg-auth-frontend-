@@ -30,7 +30,7 @@ Start the server
 ```
 For Project Demo 
 
-[Click Here To See Live Demo](http://ec2-13-126-182-253.ap-south-1.compute.amazonaws.com/) 
+[Click Here To See Live Demo](http://eg-auth.tessai.tech/) 
 
 
 
